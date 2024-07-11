@@ -14,3 +14,5 @@ Ejecutar e iniciar servidor
 ```
 npm run dev
 ```
+---
+Base de datos MySQL se encuentra en carpeta database_mysql
